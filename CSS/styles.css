@@ -4,21 +4,33 @@
     text-align: right;
 }
 .ropa{
-    color: pink;
+    color: rgb(53, 24, 107);
     font-size: 18px;
+    padding: 28px; background-color: black;
+    border: 5px solid rgb(240, 98, 4);
 
 }
 .jose{
-    padding: 20px;
+    padding: 20px; background-color: aquamarine;
     text-align: center;
+    font-size: large;
+
 
 }
 .jose-2{
-    color: blue;
-    margin: 40px;
+    color: rgb(255, 238, 0);
+    font-weight: bold;
+    
+    padding: 20px; background-color: rgb(1, 26, 26);
+    border: 5px solid rgb(71, 222, 233); 
+
 }
 .me-la-como{
-    margin: 40px;
+    color: blue;
+    font-size: 50px; 
+    padding: 20px; background-color: rgb(219, 95, 6);
+    border: 5px solid black
+    
 
 }
 
