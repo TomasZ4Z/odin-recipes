@@ -11,11 +11,25 @@
 
 }
 .jose{
-    padding: 20px; background-color: aquamarine;
-    text-align: center;
+    height: 300px;
+    padding: 10px; background-color: aquamarine;
+    text-align: end;
     font-size: large;
-
-
+    flex: 0 ;
+   
+    
+}
+.contenedor{
+    /* background-color:blue; */
+    height: 700px;
+    width: auto;
+    margin-left: 50px; 
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+   
 }
 .jose-2{
     color: rgb(255, 238, 0);
@@ -23,7 +37,6 @@
     
     padding: 20px; background-color: rgb(1, 26, 26);
     border: 5px solid rgb(71, 222, 233); 
-
 }
 .me-la-como{
     color: blue;
